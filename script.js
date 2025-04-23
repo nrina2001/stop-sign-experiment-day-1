@@ -11,8 +11,8 @@ const config = {
     },
     stopSignalDuration: 200,
     interTrialInterval: {
-        min: 1000,
-        max: 2000,
+        min: 500,
+        max: 1000,
     },
     stopRatio: 0.25,
     trialsPerTask: 200,
@@ -22,14 +22,18 @@ const config = {
 const tasks = {
     simple: {
         stimuli: {
-            star: "✷",
-            triangle: "▲",
+            circle: "⬤",
+            square: "■",
+            hash: "#",
+            spiral: "ᘓ",
         },
         keys: {
-            star: "s",
-            triangle: "k",
+            circle: "s",
+            square: "a",
+            hash: "k",
+            spiral: "l",
         },
-        reminder: " ✷ - S |  ▲ - K",
+        reminder: "  ■ - A | ⬤ - S | # - K | ᘓ - L",
     },
     complex: {
         stimuli: {
@@ -71,8 +75,6 @@ let participantId = null;
 
 let experiment;
 
-
-
 // Instructions
 const instructions = {
     welcome: `    
@@ -112,39 +114,24 @@ const instructions = {
     simpleTask: `
     In the following task, different shapes will appear on the screen.
     
-    When a star (✷) appears, press the S key
-    When a triangle (▲) appears, press the K key
-    
-    If a red square appears on the screen, you must stop and not press any key until the next symbol appears.
-    
-    Try to respond as accurately and quickly as possible. Your performance will be measured based on both 
-    response accuracy and reaction time.
-    
-    Press SPACE to begin.
-    `,
-
-    break: `
-    You have completed the first part of the experiment. 
-    Continue to the second part when you feel ready.
-    
-    Press SPACE to continue.
-    `,
-
-    complexTask: `
-    Now, you will be exposed to additional shapes.
-    
     When a circle (⬤) appears, press the S key
     When a square (■) appears, press the A key
     When a hash (#) appears, press the K key
     When a wave (ᘓ) appears, press the L key
     
-    Again, if a red square appears on the screen, you must stop and not press any key until the next symbol appears.
+    If a red square appears on the screen, you must stop and not press any key until the next symbol appears.
 
     Try to respond as accurately and quickly as possible. Your performance will be measured based on both 
     response accuracy and reaction time.
     
     Press SPACE to begin.
     `,
+
+    complexTask: `
+    You have completed the first part of the first session. 
+    Continue to the second part when you feel ready.
+    Press SPACE to continue.
+            `,
 
     completed: `
     The experiment is now complete. Thank you for your participation!
@@ -158,15 +145,13 @@ class ExperimentManager {
         this.keyReminder = document.getElementById("key-reminder");
         this.currentPhase = "welcome";
         this.demographicForm = document.getElementById("demographic-form");
-        
+
         this.startButton = document.getElementById("start-experiment");
         this.participantData = {
             age: document.getElementById("age").value,
             gender: document.getElementById("gender").value,
             // add more fields if you added them to the form
         };
-
-        
 
         // Experiment state
         this.currentTask = null;
@@ -241,9 +226,10 @@ class ExperimentManager {
             id += chars[Math.floor(Math.random() * chars.length)];
         }
         this.participantId = id;
-        document.getElementById("generated-id").textContent = this.participantId;
+        document.getElementById("generated-id").textContent =
+            this.participantId;
     }
-    
+
     handleDemographicSubmit() {
         const age = document.getElementById("age").value;
         const gender = document.getElementById("gender").value;
@@ -307,7 +293,9 @@ class ExperimentManager {
             this.currentTask === "simple"
                 ? {
                       s: ["keys", "keyש"],
+                      a: ["keya", "keyש"],
                       k: ["keyk", "keyק"],
+                      l: ["keyl", "keyל"],
                   }
                 : {
                       s: ["keys", "keyש"],
@@ -609,19 +597,19 @@ class ExperimentManager {
     }
 
     async startExperiment() {
-            document.getElementById("participant-id-display").style.display = "none";
+        document.getElementById("participant-id-display").style.display =
+            "none";
 
-            const experiment = new ExperimentManager();
-            experiment.participantId = participantId;
+        const experiment = new ExperimentManager();
+        experiment.participantId = participantId;
 
-            // ✅ Collect demographics
-            experiment.participantData = {
-                age: document.getElementById("age").value,
-                gender: document.getElementById("gender").value,
-                hand: document.getElementById("hand").value,
-            };       
+        // ✅ Collect demographics
+        experiment.participantData = {
+            age: document.getElementById("age").value,
+            gender: document.getElementById("gender").value,
+            hand: document.getElementById("hand").value,
+        };
 
-        
         try {
             await this.showInstructions("welcome");
             //await this.showInstructions('consent');
@@ -663,7 +651,6 @@ class ExperimentManager {
                 "none";
 
             this.keyReminder.style.display = "none";
-            await this.showInstructions("break");
 
             // Complex task
             await this.showInstructions("complexTask");
@@ -883,9 +870,7 @@ class ExperimentManager {
 window.addEventListener("load", () => {
     experiment = new ExperimentManager();
     experiment.start();
-}
-                       );
-    
+});
 
 function startWithNewId() {
     if (!experiment) {
@@ -895,7 +880,8 @@ function startWithNewId() {
 
     experiment.generateRandomId();
     document.getElementById("demographic-form").style.display = "block";
-    document.getElementById("start-experiment-button").style.display = "inline-block";
+    document.getElementById("start-experiment-button").style.display =
+        "inline-block";
 
     // Show the demographic form and start button AFTER a short pause (optional)
     setTimeout(() => {
@@ -903,7 +889,4 @@ function startWithNewId() {
         document.getElementById("start-experiment-button").style.display =
             "inline-block";
     }, 0); // 0.5 second delay (optional)
-    }
-
-
-
+}
