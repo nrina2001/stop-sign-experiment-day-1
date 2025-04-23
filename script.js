@@ -5,7 +5,7 @@ const config = {
     maxSSD: 1000,
     minSSD: 50,
     goDuration: {
-        simple: 700,
+        simple: 900,
         complex: 900,
         practice: 700,
     },
