@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Stop Signal Task</title>
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #f7f7f7;
+      }
+
+      #main-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        max-width: 700px;
+        width: 100%;
+        padding: 2em;
+      }
+
+      #instructions {
+        font-size: 20px;
+        margin: 1em 0;
+        white-space: pre-wrap;
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        max-height: 80vh;
+        overflow-y: auto;
+        width: 100%;
+      }
+
+      #key-reminder {
+        position: fixed;
+        top: 10px;
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        background: #ffffffcc;
+        padding: 0.5em 0;
+        z-index: 100;
+        display: none;
+      }
+
+      #stimulus-container {
+        width: 150px;
+        height: 150px;
+        font-size: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 1em auto;
+        display: none;
+      }
+
+      .stop-signal-border {
+        border: 8px solid red;
+        border-radius: 10px;
+      }
+
+      #demographic-form {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+        max-width: 300px;
+      }
+
+      #form-heading {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        color: #333;
+      }
+
+      input,
+      select,
+      button {
+        font-size: 16px;
+        padding: 8px;
+        width: auto;
+      }
+
+      #trial-feedback {
+        font-size: 18px;
+        font-weight: bold;
+        margin-top: 1em;
+        min-height: 1.5em;
+      }
+
+      .feedback-red {
+        color: red;
+      }
+
+      .feedback-yellow {
+        color: goldenrod;
+      }
+
+      .feedback-green {
+        color: green;
+      }
+
+      #progress-container {
+        width: 100%;
+        max-width: 600px;
+        background: #ddd;
+        height: 20px;
+        margin: 0.5em auto;
+        border-radius: 10px;
+        overflow: hidden;
+        position: absolute;
+        top: 60px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1000;
+        display: none;
+      }
+
+      #progress-bar {
+        width: 0%;
+        height: 100%;
+        background-color: #4caf50;
+        transition: width 0.2s ease;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="progress-container">
+      <div id="progress-bar"></div>
+    </div>
+
+    <div id="key-reminder"></div>
+
+    <div id="main-container">
+      <div id="trial-feedback"></div>
+      <div id="instructions"></div>
+      <div id="stimulus-container"></div>
+
+      <!-- ✅ Consent screen first -->
+      <div id="consent-screen" , style="text-align: left">
+        <h2>Hello, Welcome to day 1 of the Experiment!</h2>
+        <p>
+          Please read our full
+          <a href="consent-form.pdf" target="_blank">Consent Form</a>
+          before continuing.
+          <br />
+          <br />
+          By typing "I CONSENT" below, you confirm that you understand all of
+          the above, and that you agree to participate in the research.
+        </p>
+
+        <textarea
+          id="consent-text"
+          rows="3"
+          placeholder="Type your consent here..."
+        ></textarea>
+        
+        <div style="margin-top: 1em">
+          <button onclick="handleConsent();startWithNewId()">
+            Submit Consent
+          </button>
+        </div>
+      </div>
+
+      <!-- ✅ Participant ID + demographics -->
+      <div
+        id="participant-id-display"
+        ,
+        style="display: none; text-align: left"
+      >
+        <h3>Great! Your participant ID is:</h3>
+        <p
+          id="generated-id"
+          style="font-size: 24px; text-align: left; font-weight: bold"
+        ></p>
+        <p>Please save this code. You’ll need it for the next sessions.</p>
+        <p>Before we proceed, please fill out the form below:</p>
+
+        <form id="demographic-form">
+          <input id="age" type="number" placeholder="Age" required />
+          <p></p>
+          <select id="gender" required>
+            <option value="">Select Gender</option>
+            <option value="woman">Woman</option>
+            <option value="man">Man</option>
+            <option value="other">Other</option>
+          </select>
+          <select id="hand" required>
+            <option value="">Handedness</option>
+            <option value="right">Right</option>
+            <option value="left">Left</option>
+            <option value="both">Both</option>
+          </select>
+          <div style="margin-top: 1em">
+            <button type="button" id="start-experiment">Start</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

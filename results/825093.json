@@ -1,0 +1,3611 @@
+{
+  "participantId": "825093",
+  "demographic": {
+    "age": 88,
+    "gender": "woman",
+    "hand": "right",
+    "timestamp": "2025-04-21T07:34:55.211Z"
+  },
+  "results": [
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 350
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 375
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 400
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 400
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 400
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 425
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 425
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 425
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 475
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 475
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 475
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 475
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 500
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 500
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 500
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 500
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 500
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 500
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 550
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 550
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 550
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 625
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 625
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 625
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 650
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 650
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 650
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 675
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 675
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 675
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 700
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 700
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 725
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 725
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 725
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 775
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 775
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 775
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 775
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 775
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 875
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 875
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 900
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 900
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 900
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 925
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 925
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 950
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 950
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 975
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 975
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "star",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "simple",
+      "stimulusType": "triangle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 350
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 350
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 350
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 350
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 350
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 375
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 375
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 400
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 400
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 400
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 400
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 425
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 425
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 450
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 475
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 475
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 475
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 500
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 525
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 550
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 550
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 550
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 550
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 575
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 600
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 625
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 625
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 650
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 675
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 675
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 675
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 675
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 675
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 700
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 700
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 725
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 725
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 725
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 725
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 750
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 775
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 775
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 775
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 800
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 825
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 850
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 875
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 900
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 900
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 900
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 925
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 925
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 925
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 950
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 975
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 975
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "square",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": true,
+      "responseTime": null,
+      "correct": true,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "hash",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "circle",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    },
+    {
+      "participantId": "825093",
+      "taskType": "complex",
+      "stimulusType": "spiral",
+      "stopTrial": false,
+      "responseTime": null,
+      "correct": false,
+      "ssd": 1000
+    }
+  ]
+}
